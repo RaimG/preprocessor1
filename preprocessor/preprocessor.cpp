@@ -9,7 +9,7 @@ struct Date {
 };
 
 int main() {
-	
+	int hour{};
 
 	return 0;
 
