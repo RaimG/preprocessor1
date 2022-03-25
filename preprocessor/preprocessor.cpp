@@ -10,6 +10,7 @@ struct Date {
 
 int main() {
 	int hour{};
+	float prize{};
 
 	return 0;
 
